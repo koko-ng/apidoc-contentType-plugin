@@ -1,7 +1,7 @@
 # apidoc-contentType-plugin
 Add different content types support to apidoc
 
-##Usage:
+## Usage:
 First, clone and issue `npm install` in the plugin directory.
 You have to use the template provided and the custome parser, add `-t apidoc-contentType-plugin/template/ --parse-parsers apicontenttype=apidoc-contentType-plugin/api_content_type.js`
 to your command line.
